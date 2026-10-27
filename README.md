@@ -42,3 +42,8 @@ This project demonstrates practical skills in Excel, data cleaning, data visuali
 
 ## Author
 Neha Gorde
+
+
+## Dashboard Preview
+
+![HR Analytics Dashboard](Screenshot%202026-10-27%20151510.png)
